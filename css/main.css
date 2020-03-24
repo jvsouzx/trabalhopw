@@ -1,0 +1,67 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color:black;
+}
+
+header{
+    padding: 40px 200px;
+    background-color: black;
+    height: 40px;
+}
+
+footer{
+    clear: both;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+#logo{
+    float: left;
+    width: 20%;   
+}
+
+#menu{
+    margin-top: 20px;
+    float: right; 
+    width: 80%;
+}
+
+#menu a{
+    padding: 30px 100px;
+    text-decoration: none;
+    color: white;
+}
+
+#menu a:hover{
+    background-color: white;
+    color: black;
+}
+
+#main{
+    clear: both;
+    color:white;
+    background-color: black;
+}
+
+#midiasocial{
+    background-color: black;
+    background-image: url("../img/wllpaper1.jpg");
+}
+
+
+
+
