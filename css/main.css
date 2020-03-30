@@ -1,5 +1,3 @@
-
-
 *{
     margin: 0;
     padding: 0;
@@ -7,12 +5,13 @@
 
 .container{
     width: 1400px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 
 body{
     background-color:black;
+    
 }
 
 header{
@@ -58,10 +57,25 @@ footer{
 }
 
 #midiasocial{
+    text-align: center;
     background-color: black;
     background-image: url("../img/wllpaper1.jpg");
+    background-position: center;
+    height: 300px;
 }
 
+#galeria{
+    text-align: center;
+}
 
+#contato{
+    text-align: center;
+}
 
+#sobre{
+    text-align: center;
+}
 
+h1{ 
+    padding: 50px;
+}
