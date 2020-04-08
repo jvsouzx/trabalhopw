@@ -61,7 +61,7 @@ footer{
     background-color: black;
     background-image: url("../img/wllpaper1.jpg");
     background-position: center;
-    height: 300px;
+    height: 500px;
 }
 
 #galeria{
@@ -74,8 +74,12 @@ footer{
 
 #sobre{
     text-align: center;
+    background-color: black;
+    background-image: url("../img/backgroundff.jpg");
+    background-position: center;
+    height: 500px;
 }
 
 h1{ 
-    padding: 50px;
+    padding: 90px;
 }
