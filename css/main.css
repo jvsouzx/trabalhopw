@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -68,16 +69,15 @@ footer{
     text-align: center;
 }
 
-#contato{
+#sobre{
     text-align: center;
 }
 
-#sobre{
+#home{
     text-align: center;
     background-color: black;
-    background-image: url("../img/backgroundff.jpg");
-    background-position: center;
-    height: 500px;
+    /*background-image: url("../img/backgroundff.jpg");
+    background-position: center;*/
 }
 
 h1{ 
